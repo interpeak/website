@@ -18,7 +18,7 @@ export default function RootLayout({ children }) {
     return (
         <html lang="en">
             <head>
-                <title>Cycure - Cyber Security React Next js Template</title>
+                <title>InterPeak Technologies - Elevate Your Business: Unleashing the Power of Managed IT Solutions"</title>
                 <link rel="icon" href="/favicon.png" type="image/png" />
             </head>
             <body suppressHydrationWarning={true} className={`${inter.variable} ${cuprum.variable}`}>
