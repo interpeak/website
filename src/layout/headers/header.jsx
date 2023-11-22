@@ -25,7 +25,7 @@ const Header = ({ style }) => {
                                     <nav className="menu-nav">
                                         <div className="logo">
                                             <Link href="/">
-                                                <Image src="/assets/img/logo/Interpeak-Round-Logo.png" width={200} height={150} alt="Logo" />
+                                                <Image src="/assets/img/logo/Interpeak-Round-Logo.png" width={250} height={150} alt="Logo" />
                                             </Link>
                                         </div>
                                         <div className="navbar-wrap main-menu d-none d-lg-flex">
